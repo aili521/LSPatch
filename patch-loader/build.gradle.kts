@@ -25,7 +25,7 @@ android {
             path("src/main/jni/CMakeLists.txt")
         }
     }
-    namespace = "org.lsposed.lspatch.loader"
+    namespace = "ailixiya.ai.love"
 }
 
 androidComponents.onVariants { variant ->
